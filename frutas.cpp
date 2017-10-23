@@ -13,7 +13,7 @@ cin>>a;
 	switch(a)
 	{	
 		case 1: cout<<"Manzana\n";
-		
+		cout<<"fresa";
 		break;
 		case 2: cout<<"Platano\n";
 		break;
